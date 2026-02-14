@@ -1,4 +1,4 @@
-# 🚀 AI-Driven Fault-Tolerant Distributed Task Engine  
+<img width="1024" height="886" alt="Gemini_Generated_Image_mfxb67mfxb67mfxb" src="https://github.com/user-attachments/assets/b3269c13-662b-4cfc-905f-e64cca5f40f8" /># 🚀 AI-Driven Fault-Tolerant Distributed Task Engine  
 ### Self-Learning AI with Energy Optimization on AMD Multi-Core Architecture  
 
 ---
@@ -32,13 +32,14 @@ This project aims to design an intelligent system that predicts failures in adva
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram](docs/architecture.png)
+<img width="1024" height="886" alt="Gemini_Generated_Image_mfxb67mfxb67mfxb" src="https://github.com/user-attachments/assets/7355097f-5acd-4bc2-bb92-bdfdcce3adef" />
 
 ---
 
 ## 🔄 Process Flow
 
 ![Process Flow Diagram](docs/process-flow.png)
+![Uploading ChatGPT Image Feb 14, 2026, 08_42_57 PM.png…]()
 
 ---
 
