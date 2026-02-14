@@ -36,10 +36,6 @@ This project aims to design an intelligent system that predicts failures in adva
 
 ---
 
-## 🔄 Process Flow
-<img width="1024" height="886" alt="Gemini_Generated_Image_mfxb67mfxb67mfxb" src="https://github.com/user-attachments/assets/b3269c13-662b-4cfc-905f-e64cca5f40f8" />
----
-
 ## 🛠 Technology Stack
 
 - Python  
